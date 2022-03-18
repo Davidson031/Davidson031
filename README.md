@@ -51,5 +51,5 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 <br><br><br>
 <a href="https://www.linkedin.com/in/davidson-tadeu031/"><img src="http://www.blueskyresumes.com/blog/wp-content/uploads/2010/02/59-linkedin-logo.jpg" alt="Minha Figura"></a>
 <a href="https://twitter.com/Davidson_033"><img src="https://alociencia.com.br/wp-content/uploads/2016/07/twitter-logo.png" alt="Minha Figura"></a>
-<a href="https://wa.me/+5531975553375>"><img src="https://logospng.org/download/whatsapp/logo-whatsapp-256.png" alt="Minha Figura"></a>
+<a href="https://wa.me/+5531975553375"><img src="https://logospng.org/download/whatsapp/logo-whatsapp-256.png" alt="Minha Figura"></a>
 
