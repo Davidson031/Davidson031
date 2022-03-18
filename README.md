@@ -29,18 +29,27 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 <li><b>(Progresso: 15%) *BOOTCAMP* Impulso Fullstack Web Developer (110hs, Digital Innovation One)</b><i> Evolua seus conhecimentos em JavaScript, React.js e .NET</i></i>
 <li><b>(Progresso: 10%) *BOOTCAMP* Philips Fullstack Developer | You Are You (132hs, Digital Innovation One)</b><i> Experiências educacionais práticas como criar aplicações e projetos do zero ao código final</i></i>
 </ul>
-<b><h1>Carreira</h1></b>
+<b><h1>Objetivos</h1></b>
+<br><b>Curto prazo:</b>
+<ul>
+<li>Conseguir um Estágio/Trainee/Etc como primeira experiência profissional na área</li>
+<li>Focar e desenvolver meu conhecimento dentro do espectro de uma linguagem ou ferramenta em específico</li>
+</ul>
+<b>Médio prazo:</b>
+<ul>
+<li>Conseguir certificações introdutórias em áreas que me interessam, como em cloud (Amazon ou Azure) ou banco de dados (Oracle)</li>
+</ul>
 
-<b><h1>Contatos</h1></b>  
+<b>Longo prazo:</b>
+<ul>
+<li>Consolidar na área de desenvolvimento de software.</li>
+<li>Trabalhar em um jogo profissional.</li>
+</ul>
 
-Here are some ideas to get you started:
+<b><h1>Contatos e Redes Sociais</h1></b>  
+<b>E-mail: </b> davidson031@hotmail.com
+<br><br><br>
+<a href="https://www.linkedin.com/in/davidson-tadeu031/"><img src="http://www.blueskyresumes.com/blog/wp-content/uploads/2010/02/59-linkedin-logo.jpg" alt="Minha Figura"></a>
+<a href="https://twitter.com/Davidson_033"><img src="https://alociencia.com.br/wp-content/uploads/2016/07/twitter-logo.png" alt="Minha Figura"></a>
+<a href="https://wa.me/+5531975553375>"><img src="https://logospng.org/download/whatsapp/logo-whatsapp-256.png" alt="Minha Figura"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
