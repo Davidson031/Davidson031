@@ -25,6 +25,8 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 </li>
   <li><b>(Progresso: 100%) *CURSO* Introduction to Game Development (20hs, Michigan State University):</b> <i>Get started developing your own videogames using the industry standard game development tools, including the Unity3D game engine and C#.</i> 
 </li>
+  <li><b>(Progresso: 100%) *CURSO* Desenvolvimento para Internet e Banco de Dados com Python e Django (4hs, Digital Innovation One):</b> <i>Como gerenciar banco de dados para internet através do framework Django, da linguagem Python.</i> 
+</li>
   <li><b>(Progresso: 25%) *CURSO* Padrões de Projeto em JAVA na Prática! (14hs, Cod3r)</b><i> Conheça os principais padrões de design de software do mercado. Curso com muita pratica e ótimos exemplos.</i></i>
 <li><b>(Progresso: 15%) *BOOTCAMP* Impulso Fullstack Web Developer (110hs, Digital Innovation One)</b><i> Evolua seus conhecimentos em JavaScript, React.js e .NET</i></i>
 <li><b>(Progresso: 10%) *BOOTCAMP* Philips Fullstack Developer | You Are You (132hs, Digital Innovation One)</b><i> Experiências educacionais práticas como criar aplicações e projetos do zero ao código final</i></i>
