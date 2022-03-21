@@ -5,7 +5,7 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 <b><h1>Interesses e Conhecimentos</h1></b> 
 <i>Computação gráfica e desenvolvimento de software em geral. Foco maior na programação Web e seus frameworks, mas também gosto de desenvolvimento de jogos digitais(em engines como UE4 e Unity) e mobile. Algumas linguagens/tecnologias com as quais já tive contato incluem: </i>
 <ul>
-<li><b>C++:</b> <i>Nível médio/Intermediário. Meus estudos em computação gráfica e como os motores de renderização de imagem dentro de uma engine de jogos funcionam (tópicos como estrutura de dados semáforos e multithreading) E o desenvolvimento próprio de alguns pequeno jogos foram todos feitos nesta linguagem.</li></i>
+<li><b>C++:</b> <i>Nível médio/Intermediário. Meus estudos em computação gráfica e como os motores de renderização de imagem dentro de uma engine de jogos funcionam (tópicos como estrutura de dados semáforos e multithreading) e o desenvolvimento próprio de alguns pequenos jogos foram todos feitos nesta linguagem.</li></i>
 <br>
 <li>Java:<i> Nível médio/Intermediário. Meus aprendizados iniciais em POO foram em Java. Alguns projetos neste portifólio estão tanto em Java puro quanto dentro do framework <b>Spring</b></i></li>
 <br>
