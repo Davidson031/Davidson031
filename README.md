@@ -17,7 +17,7 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 </ul>
 <b><h1>Cursos/Bootcamps</h1></b> 
 <ul>
-  <li><b>(Progresso: 100%) *CURSO* Semana Spring React, edição SDS 7.0 (16hs, DevSuperior)</b><i> plicativo web usando Java com Spring Boot no back end, TypeScript com ReactJS.</i></li>
+  <li><b>(Progresso: 100%) *CURSO* Semana Spring React, edição SDS 7.0 (16hs, DevSuperior)</b><i> Aplicativo web usando Java com Spring Boot no back end, TypeScript com ReactJS.</i></li>
   <li><b>(Progresso: 100%) *CURSO* Unreal Engine C++ Developer: Learn C++ and Make Video Games (35hs, GameDev.tv)</b><i> Created in collaboration with Epic Games. Learn C++ from basics while making your first 4 video games in Unreal.</i></li>
   <li><b>(Progresso: 100%) Criando um Controle de Vendas Desktop com Java e MySQL (12.5hs, UDEMY)</b><i> Aprenda a criar um controle de vendas em Java Desktop.</i></li>
   <li><b>(Progresso: 100%) *CURSO* Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB (31hs, DevSuperior/UDEMY):</b> <i>Projeto full stack completo! Java Spring Boot no back end e Ionic no front end. Do design UML ao Heroku e Play Store!</i></li>
