@@ -29,7 +29,7 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 </li>
   <li><b>(Progresso: 25%) *CURSO* Padrões de Projeto em JAVA na Prática! (14hs, Cod3r)</b><i> Conheça os principais padrões de design de software do mercado. Curso com muita pratica e ótimos exemplos.</i></i>
 <li><b>(Progresso: 15%) *BOOTCAMP* Impulso Fullstack Web Developer (110hs, Digital Innovation One)</b><i> Evolua seus conhecimentos em JavaScript, React.js e .NET</i></i>
-<li><b>(Progresso: 10%) *BOOTCAMP* Philips Fullstack Developer | You Are You (132hs, Digital Innovation One)</b><i> Experiências educacionais práticas como criar aplicações e projetos do zero ao código final</i></i>
+<li><b>(Progresso: 30%) *BOOTCAMP* Philips Fullstack Developer | You Are You (132hs, Digital Innovation One)</b><i> Experiências educacionais práticas como criar aplicações e projetos do zero ao código final</i></i>
 </ul>
 <b><h1>Objetivos</h1></b>
 <br><b>Curto prazo:</b>
