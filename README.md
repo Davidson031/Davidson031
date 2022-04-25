@@ -13,7 +13,7 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 <br>
 <li>HTML/JS/CSS: <i>Nível básico. Front-End não é minha especialidade, mas para dar continuidade aos meus projetos e por ser o básico e indispensável do desenvolvimento Web alinhei meus estudos de PHP ao dessas três linguagens, então, praticamente todos os meus projetos os incluem em certo nível. Incluindo usos básicos de framworks front-end como <b>React e Bootstrap.</b></i></li>
 <br>
-<li>C#:<i> Nível básico. Meus jogos desenvolvidos na engine Unity e meus estudos dos conceitos M-V-C foram todos feitos em C#, com o segundo caso sendo feito dentro do <b>ASP.NET</b></i></li>
+<li>C#:<i> Nível Médio. Meus jogos desenvolvidos na engine Unity e meus estudos dos conceitos M-V-C foram todos feitos todos em C#, com o segundo caso sendo feito dentro do <b>ASP.NET</b></i></li>
 </ul>
 <b><h1>Cursos/Bootcamps</h1></b> 
 <ul>
