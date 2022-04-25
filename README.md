@@ -9,7 +9,7 @@ Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em
 <br>
 <li>Java:<i> Nível médio/Intermediário. Meus aprendizados iniciais em POO foram em Java. Alguns projetos neste portifólio estão tanto em Java puro quanto dentro do framework <b>Spring</b></i></li>
 <br>
-<li>PHP: <i>Nível médio/Intermediário. Movendo meus estudos para a área Web e seu funcionamento cliente-servidor comecei com o PHP, tenho aqui projetos tanto em PHP puro quanto dentro do framework <b>Laravel</b></i></li>
+<li>PHP: <i>Nível Intermediário/Avançado. Movendo meus estudos para a área Web e seu funcionamento cliente-servidor comecei com o PHP, tenho aqui projetos tanto em PHP puro quanto dentro do framework <b>Laravel</b></i></li>
 <br>
 <li>HTML/JS/CSS: <i>Nível básico. Front-End não é minha especialidade, mas para dar continuidade aos meus projetos e por ser o básico e indispensável do desenvolvimento Web alinhei meus estudos de PHP ao dessas três linguagens, então, praticamente todos os meus projetos os incluem em certo nível. Incluindo usos básicos de framworks front-end como <b>React e Bootstrap.</b></i></li>
 <br>
