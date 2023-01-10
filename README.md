@@ -2,19 +2,6 @@
 
 Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em Análise e Desenvolvimento de Sistemas pela Estácio, além de graduando em Ciência da Computação pela Universidade Cruzeiro do Sul (com projeção de graduação em 06/2023), buscando uma primeira experiência profissional na área de desenvolvimento! Bem vindos ao meu GitHub! Aqui vocês encontrarão meus interesses, cursos terminados/em andamento, ideias de carreira, algumas redes sociais e meus projetos. 
 
-<b><h1>Interesses e Conhecimentos</h1></b> 
-<i>Computação gráfica e desenvolvimento de software em geral. Foco maior na programação Web e seus frameworks, mas também gosto de desenvolvimento de jogos digitais(em engines como UE4 e Unity) e mobile. Algumas linguagens/tecnologias com as quais já tive contato incluem: </i>
-<ul>
-<li><b>C++:</b> <i>Nível médio/Intermediário. Meus estudos em computação gráfica e como os motores de renderização de imagem dentro de uma engine de jogos funcionam (tópicos como estrutura de dados semáforos e multithreading) e o desenvolvimento próprio de alguns pequenos jogos foram todos feitos nesta linguagem.</li></i>
-<br>
-<li>Java:<i> Nível médio/Intermediário. Meus aprendizados iniciais em POO foram em Java. Alguns projetos neste portifólio estão tanto em Java puro quanto dentro do framework <b>Spring</b></i></li>
-<br>
-<li>PHP: <i>Nível Intermediário/Avançado. Movendo meus estudos para a área Web e seu funcionamento cliente-servidor comecei com o PHP, tenho aqui projetos tanto em PHP puro quanto dentro do framework <b>Laravel</b></i></li>
-<br>
-<li>HTML/JS/CSS: <i>Nível básico. Front-End não é minha especialidade, mas para dar continuidade aos meus projetos e por ser o básico e indispensável do desenvolvimento Web alinhei meus estudos de PHP ao dessas três linguagens, então, praticamente todos os meus projetos os incluem em certo nível. Incluindo usos básicos de framworks front-end como <b>React e Bootstrap.</b></i></li>
-<br>
-<li>C#:<i> Nível Médio. Meus jogos desenvolvidos na engine Unity e meus estudos dos conceitos M-V-C foram todos feitos todos em C#, com o segundo caso sendo feito dentro do <b>ASP.NET</b></i></li>
-</ul>
 <b><h1>Cursos/Bootcamps</h1></b> 
 <ul>
   <li><b>(Progresso: CONCLUÍDO) *CURSO* Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022 (60hs, COD3R)</b><i>Construção de diversos aplicativos em Flutter/Dart</i></li>
