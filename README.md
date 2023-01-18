@@ -1,7 +1,5 @@
 <b><h1>------ Olá 👋</h1></b>
 
-Meu nome é Davidson, tenho 27 anos e sou de Belo Horizonte (MG), sou formado em Análise e Desenvolvimento de Sistemas pela Estácio, além de graduando em Ciência da Computação pela Universidade Cruzeiro do Sul (com projeção de graduação em 06/2023), buscando uma primeira experiência profissional na área de desenvolvimento! Bem vindos ao meu GitHub! Aqui vocês encontrarão meus interesses, cursos terminados/em andamento, ideias de carreira, algumas redes sociais e meus projetos. 
-
 <b><h1>Cursos/Bootcamps</h1></b> 
 <ul>
   <li><b>(Progresso: CONCLUÍDO) *CURSO* Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022 (60hs, COD3R)</b><i>Construção de diversos aplicativos em Flutter/Dart</i></li>
